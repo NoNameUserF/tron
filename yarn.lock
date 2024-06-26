@@ -843,6 +843,11 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+ci@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/ci/-/ci-2.3.0.tgz#ff4afaee68a3257359f870f94658ebd4a8efa0d6"
+  integrity sha512-0MGXkzJKkwV3enG7RUxjJKdiAkbaZ7visCjitfpCN2BQjv02KGRMxCHLv4RPokkjJ4xR33FLMAXweS+aQ0pFSQ==
+
 color-convert@^1.9.0:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"
