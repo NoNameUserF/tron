@@ -9,6 +9,7 @@ export default defineConfig({
   plugins: [react(),
     libInjectCss(),
   ],
+  base : 'core' ,
   build: {
     lib: {
       entry: './lib/index.jsx', // Основной файл вашей библиотеки
