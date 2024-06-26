@@ -11,6 +11,7 @@ export default defineConfig({
   ],
   base : 'tron' ,
   build: {
+    outDir: 'dist', // Папка, в которую будет собираться проект
     lib: {
       entry: './lib/index.jsx', // Основной файл вашей библиотеки
       name: 'gsu-ui-core', // Имя вашей библиотеки, доступное как глобальная переменная
